@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+# version 1
+
+CACHE:
+
+icon.png
+css/style.css
+font/apple.css
+font/apple_-webfont.eot
+font/apple_-webfont.svg
+font/apple_-webfont.ttf
+font/apple_-webfont.woff
+img/avatar-1.png
+img/avatar-2.png
+img/avatar.png
+img/grass.png
+img/ground.png
+img/q42.png
+img/sky.png
+img/twitter.png
+js/game.js
+js/jq.mobi.min.js
+js/utils.js
+
+NETWORK:
+*
